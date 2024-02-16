@@ -37,12 +37,6 @@ td {
     text-align: center;
 }
 
-div>p::first-letter {
-    color: #636363;
-    font-weight: bold;
-    font-size: 150%; 
-}
-
 footer {
     display: block;
     background-color: #636363;
@@ -52,9 +46,9 @@ footer {
     width: 100%;
     padding-top: 30px;
     font-family: "Times New Roman";
-    color: #ffffff;
+    color: #000000;
 }
 
 footer a {
-    color: #ffffff;
+    color: #000000;
 }
